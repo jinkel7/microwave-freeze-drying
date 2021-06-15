@@ -1,10 +1,10 @@
-# Julia v1.5.0
+Julia v1.5.0
 
-# See publications for detailed model description
+See publications for detailed model description
 # "Mathematical Modeling and Analysis of Microwave-assisted Freeze-drying in Biopharmaceutical Applications"
 # https://doi.org/
 
-Instructions written in codes
-# - Conventional freeze drying
-# - Microwave-assisted freeze drying
-# - Hybrid freeze drying
+Instructions written in files
+ - Conventional freeze drying
+ - Microwave-assisted freeze drying
+ - Hybrid freeze drying
